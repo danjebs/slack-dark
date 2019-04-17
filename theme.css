@@ -4194,10 +4194,10 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); }
 
 
-.c-virtual_list__scroll_container, .p-threads_view__default_background, .p_threads_view_load_newer_button, .p_threads_view_load_older_button {
+.c-virtual_list__scroll_container, .p-threads_view__default_background, .p-threads_view_reply, .p_threads_view_load_newer_button, .p_threads_view_load_older_button {
   background-color: #222222;
 }
 
-.p-threads_view_root, .p_threads_view_load_newer_button, .p_threads_view_load_older_button, .p-threads_view_reply, .p-threads_view__footer {
+.p-threads_view_root, .p-threads_view_reply, .p_threads_view_load_newer_button, .p_threads_view_load_older_button, .p-threads_view__footer {
   border-color: #363636;
 }
